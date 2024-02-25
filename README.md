@@ -14,6 +14,6 @@ Projeyi çalıştırmak için gereken yazılımlar ve araçlar:
 
 ### Kurulum
 
-1. Projeyi klonlayın:
+1. Tek Kod:
    ```sh
    git clone https://github.com/CarlonSOFTWARE/PopulerPhishingTools && cd PopulerPhishingTools && bash kurulum.sh
